@@ -1,0 +1,3 @@
+[submodule "docs/Course-Notes"]
+	path = docs/Course-Notes
+	url = git@github.com:Alexanderstr2/Course-Notes.git
